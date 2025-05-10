@@ -1,11 +1,10 @@
+@charset "utf-8";
 /*
 作者: imsyy
 主页：https://www.imsyy.top/
 GitHub：https://github.com/imsyy/home
 版权所有，请勿删除
 */
-
-@charset "utf-8";
 
 /*全局样式*/
 
@@ -47,13 +46,13 @@ a:hover {
 @font-face {
   font-family: "Pacifico-Regular";
   font-display: swap;
-  src: url("/font/Pacifico-Regular.ttf") format("truetype");
+  src: url("/public/font/Pacifico-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "UnidreamLED";
   font-display: swap;
-  src: url("/font/UnidreamLED.ttf") format("truetype");
+  src: url("/public/font/UnidreamLED.ttf") format("truetype");
 }
 
 // 基础样式
