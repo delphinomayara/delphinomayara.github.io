@@ -1,4 +1,4 @@
-import { createApp } from "vue";
+import { createApp } from 'https://unpkg.com/vue@3/dist/vue.esm-browser.js';
 import "style/style.scss";
 import App from "App.vue";
 // 引入 pinia
